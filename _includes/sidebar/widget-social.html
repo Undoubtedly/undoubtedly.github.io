@@ -1,0 +1,17 @@
+<div class='c-widget'>
+  <h3 class='c-widget__title'>팔로우</h3>
+  <ul class='c-widget-social o-plain-list'>
+    {% if site.twitter %}
+      <li class='c-widget-social__item'>
+        <a href='{{ site.twitter }}' class='c-widget-social__link' aria-label='Twitter' target='_blank' rel='noopener'>
+          <span data-icon='ei-sc-twitter' class='c-widget-social__icon' data-size='s'></span>
+        </a>
+      </li>
+    {% endif %}
+    <li class='c-widget-social__item'>
+      <a href='#' class='c-widget-social__link' aria-label='YouTube' target='_blank' rel='noopener'>
+        <span data-icon='ei-sc-youtube' class='c-widget-social__icon' data-size='s'></span>
+      </a>
+    </li>
+  </ul>
+</div>

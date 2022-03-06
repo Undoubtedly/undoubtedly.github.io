@@ -1,0 +1,162 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Undoubtedly.Github.Io</title>
+    <description>Hwang Wonyeong &amp; Clean News</description>
+    <link>https://undoubtedly.github.io/</link>
+    <atom:link href="https://undoubtedly.github.io/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Sun, 06 Mar 2022 22:06:12 +0900</pubDate>
+    <lastBuildDate>Sun, 06 Mar 2022 22:06:12 +0900</lastBuildDate>
+    <generator>Jekyll v3.2.1</generator>
+
+    
+      <item>
+        <title>무한 원숭이 정리</title>
+        <description>&lt;p&gt;무한 원숭이 정리는 원숭이가 무한한 시간 동안 타자기 키보드에서 무작위로 키를 치는 것은 윌리엄 셰익스피어의 전체 작품과 같은 주어진 텍스트를 거의 확실하게 입력한다고 말합니다.&lt;/p&gt;
+
+&lt;p&gt;사실, 원숭이는 가능한 모든 유한한 텍스트를 무한한 횟수로 거의 확실하게 입력할 것입니다. 그러나 관찰 가능한 우주를 가득 채우고 있는 원숭이가 셰익스피어의 햄릿과 같은 완전한 작품을 타이핑할 확률은 너무 작아서 우주의 나이보다 수십만 자릿수 이상의 기간 동안 발생할 확률은 매우 낮습니다. (그러나 기술적으로 0은 아님).&lt;/p&gt;
+
+&lt;p&gt;이 맥락에서 “거의 확실하다”는 정확한 의미를 지닌 수학 용어이고 “원숭이”는 실제 원숭이가 아니라 문자와 기호의 끝없는 무작위 시퀀스를 생성하는 추상 장치에 대한 은유입니다.&lt;/p&gt;
+
+&lt;p&gt;2003년에 플리머스 대학 MediaLab 예술 과정의 강사와 학생들은 예술 위원회의 2,000파운드 보조금을 사용하여 실제 원숭이의 문학적 결과물을 연구했습니다. 그들은 한 달 동안 영국 데본의 Paignton 동물원에 있는 6마리의 Celebes crested macaques 우리에 컴퓨터 키보드를 두고 웹사이트에 결과를 방송할 수 있는 라디오 링크를 남겨두었습니다. 원숭이들은 대부분 문자 S로 구성된 총 5페이지만 생산했을 뿐만 아니라 수컷이 키보드를 돌로 두드리기 시작했고 원숭이가 뒤이어 키보드를 더럽혔습니다.&lt;/p&gt;
+
+&lt;p&gt;참조: &lt;a href=&quot;https://en.wikipedia.org/wiki/Infinite_monkey_theorem&quot;&gt;Wikipedia&lt;/a&gt;&lt;/p&gt;
+</description>
+        <pubDate>Fri, 04 Mar 2022 00:00:00 +0900</pubDate>
+        <link>https://undoubtedly.github.io/2022/03/04/infinite-monkey-theorem/</link>
+        <guid isPermaLink="true">https://undoubtedly.github.io/2022/03/04/infinite-monkey-theorem/</guid>
+      </item>
+    
+
+    
+      
+        
+      
+    
+      
+        
+          <item>
+            <title>소개</title>
+            <description>&lt;p&gt;저는 황원영입니다. 저는 30년 넘게 소프트웨어 엔지니어로 일해 왔습니다. 나는 기술을 사용하여 도전적인 문제를 해결하기 위해 혁신하는 것을 좋아합니다. 나는 훌륭한 엔지니어링 팀과 함께 일하지만 우리에게는 쓸모없고 실마리가 없는 관리자가 있습니다. 그는 원숭이로 교체될 수 있고 변경은 더 좋을 것입니다.&lt;/p&gt;
+
+&lt;p&gt;개인적으로 저는 한 마리의 놀라운 애완동물인 Parrot과 함께 살고 있습니다. 저는 독신이고 사회성이 좋지 않아 친구가 거의 없지만 보통 컴퓨터와 기술을 가지고 노는 데 시간을 보냅니다.&lt;/p&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;생활-조언&quot;&gt;생활 조언&lt;/h1&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;낙관론자는 직업 경험이 없는 비관론자일 뿐입니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;당신의 동료들은 모두 바보입니다. 그들을 용인하는 법을 배워야 합니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;blockquote&gt;
+  &lt;p&gt;할 수 없는 개인적인 문제는 거의 없습니다.&lt;/p&gt;
+&lt;/blockquote&gt;
+
+&lt;hr /&gt;
+
+&lt;h1 id=&quot;저에게-연락&quot;&gt;저에게 연락&lt;/h1&gt;
+
+&lt;p&gt;아니요, 제 스스로 해결해야 할 문제가 충분합니다.&lt;/p&gt;
+</description>
+            <link>https://undoubtedly.github.io/about.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+      
+        
+          <item>
+            <title>소개</title>
+            <description># 제목에 대한 간단한 기본 스타일
+## 제목에 대한 간단한 기본 스타일
+### 제목에 대한 간단한 기본 스타일
+#### 제목에 대한 간단한 기본 스타일
+##### 제목에 대한 간단한 기본 스타일
+###### 제목에 대한 간단한 기본 스타일
+
+***
+
+* 그냥 그래
+* 그냥 그래
+* 그냥 그래
+
+***
+
+1. 그냥 그래
+2. 그냥 그래
+3. 그냥 그래
+
+***
+
+&gt; 디자인은 개성, 기이함, 이단, 이상, 취미, 유머의 천국입니다. — 황원영
+
+***
+
+    'use strict';
+    var markdown = require('markdown').markdown;
+    function Editor(input, preview) {   
+    this.update = function() {
+        preview.innerHTML = markdown.toHTML(input.value);
+    };
+    input.editor = this;
+    this.update();
+    }
+
+***
+
+&lt;script src=&quot;https://gist.github.com/ahmadajmi/dbb4f713317721668bcbc39420562afc.js&quot;&gt;&lt;/script&gt;
+
+***
+
+&lt;iframe width=&quot;560&quot; height=&quot;315&quot; src=&quot;https://www.youtube.com/embed/NF2HpikZGz4&quot; title=&quot;YouTube video player&quot; frameborder=&quot;0&quot; allow=&quot;accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture&quot; allowfullscreen&gt;&lt;/iframe&gt;
+
+***
+
+&lt;iframe width=&quot;100%&quot; height=&quot;300&quot; scrolling=&quot;no&quot; frameborder=&quot;no&quot; allow=&quot;autoplay&quot; src=&quot;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/678838419&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&quot;&gt;&lt;/iframe&gt;&lt;div style=&quot;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&quot;&gt;&lt;a href=&quot;https://soundcloud.com/droeloemusic&quot; title=&quot;DROELOE&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;DROELOE&lt;/a&gt; · &lt;a href=&quot;https://soundcloud.com/droeloemusic/written-maze-feat-iris-penning&quot; title=&quot;Written Maze (feat. Iris Penning)&quot; target=&quot;_blank&quot; style=&quot;color: #cccccc; text-decoration: none;&quot;&gt;Written Maze (feat. Iris Penning)&lt;/a&gt;&lt;/div&gt;
+
+***
+
+&lt;iframe height=&quot;300&quot; style=&quot;width: 100%;&quot; scrolling=&quot;no&quot; title=&quot;The Last Experience&quot; src=&quot;https://codepen.io/ge1doot/embed/LZdOwj?default-tab=html%2Cresult&quot; frameborder=&quot;no&quot; loading=&quot;lazy&quot; allowtransparency=&quot;true&quot; allowfullscreen=&quot;true&quot;&gt;
+  See the Pen &lt;a href=&quot;https://codepen.io/ge1doot/pen/LZdOwj&quot;&gt;
+  The Last Experience&lt;/a&gt; by Gerard Ferrandez (&lt;a href=&quot;https://codepen.io/ge1doot&quot;&gt;@ge1doot&lt;/a&gt;)
+  on &lt;a href=&quot;https://codepen.io&quot;&gt;CodePen&lt;/a&gt;.
+&lt;/iframe&gt;
+
+***
+
+![DROELOE](https://droeloe.com/wp-content/uploads/cropped-DR_2019_PRESSPIC-scaled-1.jpg)
+
+***
+
+&lt;input type=&quot;text&quot; placeholder=&quot;입력 필드&quot;&gt;
+
+***
+
+&lt;button class=&quot;c-btn c-btn--small&quot;&gt;버튼&lt;/button&gt;
+
+&lt;button class=&quot;c-btn&quot;&gt;버튼&lt;/button&gt;
+
+&lt;button class=&quot;c-btn c-btn--full&quot;&gt;버튼&lt;/button&gt;
+
+***</description>
+            <link>https://undoubtedly.github.io/style-guide.html</link>
+          </item>
+        
+      
+    
+      
+    
+      
+    
+
+  </channel>
+</rss>
